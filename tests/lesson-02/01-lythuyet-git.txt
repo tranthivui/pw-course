@@ -1,0 +1,4 @@
+1. git init: Khởi tạo repo trên local
+2. git add <file_name>: Chuyển file tên <file_name> chuẩn bị commit từ vùng working directory sang vùng staging area
+3. git add .: Chuyển tất cả các file chuẩn bị commit từ vùng working directory sang vùng staging area
+4. git commit -m"message": Commit file cần đẩy code lên với tên commit là message

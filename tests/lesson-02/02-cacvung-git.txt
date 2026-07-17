@@ -1,0 +1,6 @@
+a. vùng local
+b. vùng working directory
+c. vùng working directory
+d. working directory: file2, file3; staging area: file1
+e. working directory: file2, file3; repository: file1
+f. working directory: file2, file3; repository: file1
